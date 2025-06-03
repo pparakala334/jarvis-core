@@ -41,7 +41,7 @@ def handle_request(user_input, thread_id=None):
     if thread_id not in memory["threads"]:
         thread_id = get_latest_thread_id(memory)
         if not thread_id:
-            thread_id = start_thread(memory)
+            thread_id = start_thread()
 
     thread = memory["threads"][thread_id]
     thread["messages"].append({"role": "user", "content": user_input})
