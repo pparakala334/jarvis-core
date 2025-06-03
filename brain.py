@@ -19,11 +19,11 @@ def save_memory(memory):
 def start_thread():
     thread_id = str(uuid.uuid4())
     memory = load_memory()
-    now = time.time()
+    now = datetime.now().isoformat()
     memory["threads"][thread_id] = {
         "id": thread_id,
         "messages": [],
-        "created_at": datetime.now().isoformat(),
+        "created_at": now,
         "last_active": now
     }
     save_memory(memory)

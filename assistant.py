@@ -18,14 +18,7 @@ def parse_time(t):
         return datetime.min
 
 def get_latest_thread_id(memory):
-    try:
-        return max(
-            memory["threads"],
-            key=lambda k: float(memory["threads"][k]["last_active"])
-        )
-    except Exception as e:
-        print("⚠️ Error finding latest thread:", e)
-        return None
+    return max(memory["threads"], key=lambda k: memory["threads"][k]["last_active"])
 
 def respond(messages):
     response = client.chat.completions.create(
