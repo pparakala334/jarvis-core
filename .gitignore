@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+audio/output.mp3
+memory.json
+testing/
