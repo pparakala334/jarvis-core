@@ -1,6 +1,7 @@
 import os
 import json
 import uuid
+import time
 from datetime import datetime
 
 MEMORY_FILE = "memory.json"
@@ -18,11 +19,12 @@ def save_memory(memory):
 def start_thread():
     thread_id = str(uuid.uuid4())
     memory = load_memory()
+    now = time.time()
     memory["threads"][thread_id] = {
         "id": thread_id,
         "messages": [],
         "created_at": datetime.now().isoformat(),
-        "last_active": datetime.now().isoformat()
+        "last_active": now
     }
     save_memory(memory)
     return thread_id
