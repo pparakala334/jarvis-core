@@ -20,7 +20,7 @@ def parse_time(t):
 def get_latest_thread_id(memory):
     if not memory["threads"]:
         return None
-    return max(memory["threads"], key=lambda k: memory["threads"][k]["created_at"])
+    return max(memory["threads"], key=lambda k: memory["threads"][k]["last_active"])
 
     if not valid_threads:
         return start_thread()
