@@ -37,11 +37,13 @@ def respond(messages):
 def handle_request(user_input, thread_id=None):
     memory = load_memory()
 
-    # Try to get the thread, fallback to latest, or create new
+    # If provided thread_id is invalid or missing, default to latest or create new
     if thread_id not in memory["threads"]:
-        thread_id = get_latest_thread_id(memory)
-        if not thread_id:
+        if memory["threads"]:
+            thread_id = get_latest_thread_id(memory)
+        else:
             thread_id = start_thread()
+            memory = load_memory()  # Refresh memory to include new thread
 
     thread = memory["threads"][thread_id]
     thread["messages"].append({"role": "user", "content": user_input})
