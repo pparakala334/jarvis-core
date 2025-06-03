@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: jarvis-core
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    plan: free
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ELEVENLABS_API_KEY
+        sync: false
+      - key: ASSISTANT_NAME
+        value: Jarvis
+    autoDeploy: true
