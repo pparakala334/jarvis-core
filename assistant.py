@@ -17,12 +17,10 @@ def parse_time(t):
     except Exception:
         return datetime.min
 
-def get_latest_thread_id(threads):
-    valid_threads = {
-        t_id: t_data
-        for t_id, t_data in threads.items()
-        if "last_active" in t_data
-    }
+def get_latest_thread_id(memory):
+    if not memory["threads"]:
+        return None
+    return max(memory["threads"], key=lambda k: memory["threads"][k]["created_at"])
 
     if not valid_threads:
         return start_thread()
@@ -39,8 +37,11 @@ def respond(messages):
 def handle_request(user_input, thread_id=None):
     memory = load_memory()
 
-    if not thread_id or thread_id not in memory["threads"]:
-        thread_id = start_thread()
+    # Try to get the thread, fallback to latest, or create new
+    if thread_id not in memory["threads"]:
+        thread_id = get_latest_thread_id(memory)
+        if not thread_id:
+            thread_id = start_thread(memory)
 
     thread = memory["threads"][thread_id]
     thread["messages"].append({"role": "user", "content": user_input})
