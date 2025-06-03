@@ -1,0 +1,449 @@
+{
+  "threads": {
+    "6c85ae92-8b15-4b78-91b2-823d2649728a": {
+      "id": "6c85ae92-8b15-4b78-91b2-823d2649728a",
+      "messages": [
+        {
+          "role": "user",
+          "content": "what is the capital of Germany"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        },
+        {
+          "role": "user",
+          "content": "what did I just ask"
+        },
+        {
+          "role": "assistant",
+          "content": "You asked, \"what is the capital of Germany?\""
+        },
+        {
+          "role": "user",
+          "content": "Who are you?"
+        },
+        {
+          "role": "assistant",
+          "content": "I am ChatGPT, an AI language model created by OpenAI. I'm here to help answer your questions and assist with a variety of tasks. How can I assist you today?"
+        },
+        {
+          "role": "user",
+          "content": "and what about"
+        },
+        {
+          "role": "assistant",
+          "content": "Could you please clarify what you mean by \"and what about\"? Are you asking for more information on a specific topic or something else? I'm here to help!"
+        },
+        {
+          "role": "user",
+          "content": "and what about AUST"
+        },
+        {
+          "role": "assistant",
+          "content": "Are you referring to **AUST** as an acronym? It could stand for different things depending on the context. A common reference is:\n\n- **AUST**: Asia University of Science and Technology (or similar names in different countries)\n- **AUST**: Bangladesh University of Science and Technology (Ahsanullah University of Science and Technology)\n\nCould you please specify the context or provide more details about what you mean by \"AUST\"? That way, I can give you the most accurate information."
+        },
+        {
+          "role": "user",
+          "content": "what's the capital of Germany"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        },
+        {
+          "role": "user",
+          "content": "can you remind me what I just asked"
+        },
+        {
+          "role": "assistant",
+          "content": "You just asked, \"what's the capital of Germany?\""
+        },
+        {
+          "role": "user",
+          "content": "Who are you?"
+        },
+        {
+          "role": "assistant",
+          "content": "I am ChatGPT, an AI language model developed by OpenAI. I'm here to assist you with information, answer questions, and help with a variety of tasks. How can I help you today?"
+        },
+        {
+          "role": "user",
+          "content": "and what about AUST"
+        },
+        {
+          "role": "assistant",
+          "content": "You asked about **AUST**. This acronym can refer to several institutions or organizations. One common usage is:\n\n- **AUST**: Ahsanullah University of Science and Technology, a private university in Bangladesh.\n\nIf you have a different context in mind, please let me know so I can provide more specific information!"
+        },
+        {
+          "role": "user",
+          "content": "and what about Australia"
+        },
+        {
+          "role": "assistant",
+          "content": "Australia is a country and continent located in the Southern Hemisphere, known for its diverse landscapes, unique wildlife, and vibrant cities.\n\n- **Capital of Australia:** Canberra  \n- **Largest cities:** Sydney, Melbourne, Brisbane, Perth, and Adelaide  \n- **Official language:** English  \n- **Currency:** Australian Dollar (AUD)  \n- **Government:** Federal parliamentary constitutional monarchy  \n\nIf you want to know more about Australia\u2014its culture, geography, history, or anything else\u2014feel free to ask!"
+        },
+        {
+          "role": "user",
+          "content": "what is the capital of Germany"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        },
+        {
+          "role": "user",
+          "content": "what did I just ask"
+        },
+        {
+          "role": "assistant",
+          "content": "You just asked, \"what is the capital of Germany?\""
+        },
+        {
+          "role": "user",
+          "content": "and what about Austria"
+        },
+        {
+          "role": "assistant",
+          "content": "Austria is a country located in Central Europe. Here are some key details:\n\n- **Capital:** Vienna  \n- **Official language:** German  \n- **Currency:** Euro (EUR)  \n- **Government:** Federal parliamentary republic  \n- **Known for:** Rich cultural history, classical music (Mozart, Beethoven), beautiful alpine landscapes, and historic cities.\n\nIf you'd like to know more about Austria or have specific questions, feel free to ask!"
+        },
+        {
+          "role": "user",
+          "content": "what's the capital of Germany"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        },
+        {
+          "role": "user",
+          "content": "what did I ask you before"
+        },
+        {
+          "role": "assistant",
+          "content": "Before your last question, you asked: \"and what about Austria?\""
+        },
+        {
+          "role": "user",
+          "content": "but what was my last question after the what about"
+        },
+        {
+          "role": "assistant",
+          "content": "Your last question after the \"and what about\" series was:\n\n**\"what's the capital of Germany?\"**"
+        },
+        {
+          "role": "user",
+          "content": "thank you"
+        },
+        {
+          "role": "assistant",
+          "content": "You're welcome! If you have any more questions, feel free to ask. Have a great day! \ud83d\ude0a"
+        }
+      ],
+      "created_at": "2025-06-02T19:19:42.608279",
+      "last_active": "2025-06-02T19:30:01.058301"
+    },
+    "1d1363b8-1c9a-4d9c-8ae2-5531f6bb5f37": {
+      "id": "1d1363b8-1c9a-4d9c-8ae2-5531f6bb5f37",
+      "messages": [],
+      "created_at": "2025-06-02T19:39:16.401206",
+      "last_active": "2025-06-02T19:39:16.401230"
+    },
+    "638501f8-45fa-4dca-aa20-f36a83fb60c3": {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of Germany?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        }
+      ],
+      "last_active": "2025-06-02T19:40:17.755605"
+    },
+    "de62e4dd-a8bf-42d6-8941-747f98cc1915": {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of Germany?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        }
+      ],
+      "last_active": "2025-06-02T19:41:28.236568"
+    },
+    "744c4e9c-795b-437c-9ca1-46163a6ed3db": {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of Germany?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        }
+      ],
+      "last_active": "2025-06-02T19:44:47.349998"
+    },
+    "93e45be6-5375-489a-b74a-4c1e8a0ce26b": {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of Germany?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        }
+      ],
+      "last_active": "2025-06-02T19:46:58.193563"
+    },
+    "3899cd08-c60b-4b90-8c19-3bb7fa012a2b": {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of Germany?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        },
+        {
+          "role": "user",
+          "content": "what's the capital of Germany"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        },
+        {
+          "role": "user",
+          "content": "what did I ask you right now"
+        },
+        {
+          "role": "assistant",
+          "content": "You asked, \"what's the capital of Germany.\""
+        }
+      ],
+      "last_active": "2025-06-02T20:21:44.808339",
+      "created_at": "2025-06-02T20:21:31.491911"
+    },
+    "a07d1caa-e5d8-4f27-a1dd-f2e2b781db4b": {
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of Germany?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin."
+        },
+        {
+          "role": "user",
+          "content": "what's the capital of Germany what's the capital of"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of Germany is Berlin. If you want to know the capital of another country, please let me know!"
+        },
+        {
+          "role": "user",
+          "content": "what's the weather like on"
+        },
+        {
+          "role": "assistant",
+          "content": "Could you please specify the location or city you want the weather information for?"
+        }
+      ],
+      "last_active": 1748911665.7664044,
+      "created_at": 1748911665.7664044
+    },
+    "5698f8a0-4a61-44d7-acf8-a5cd8e413d4d": {
+      "id": "5698f8a0-4a61-44d7-acf8-a5cd8e413d4d",
+      "messages": [],
+      "created_at": "2025-06-02T20:23:00.333301",
+      "last_active": "2025-06-02T20:23:00.333332"
+    },
+    "bfb89db1-319b-4671-bc40-d0e4257ef258": {
+      "id": "bfb89db1-319b-4671-bc40-d0e4257ef258",
+      "messages": [],
+      "created_at": "2025-06-02T20:24:25.820490",
+      "last_active": "2025-06-02T20:24:25.820510"
+    },
+    "90e16aa9-6611-4e0d-b82f-ba53a2566473": {
+      "id": "90e16aa9-6611-4e0d-b82f-ba53a2566473",
+      "messages": [],
+      "created_at": "2025-06-02T20:25:07.791050",
+      "last_active": "2025-06-02T20:25:07.791079"
+    },
+    "5efce38f-5b3b-4446-a106-65c36f2efa1c": {
+      "id": "5efce38f-5b3b-4446-a106-65c36f2efa1c",
+      "messages": [],
+      "created_at": "2025-06-02T20:26:03.003402",
+      "last_active": "2025-06-02T20:26:03.003424"
+    },
+    "cdeafb06-8d0e-4d81-aa6f-b740f522ba00": {
+      "id": "cdeafb06-8d0e-4d81-aa6f-b740f522ba00",
+      "messages": [],
+      "created_at": "2025-06-02T20:27:53.959302",
+      "last_active": "2025-06-02T20:27:53.959323"
+    },
+    "256c4707-d318-4789-bce5-e72a8bcf2e3a": {
+      "id": "256c4707-d318-4789-bce5-e72a8bcf2e3a",
+      "messages": [],
+      "created_at": "2025-06-02T20:29:57.806322",
+      "last_active": "2025-06-02T20:29:57.806343"
+    },
+    "239c6b0d-8a3f-42f3-a27c-4d088a100f62": {
+      "id": "239c6b0d-8a3f-42f3-a27c-4d088a100f62",
+      "messages": [],
+      "created_at": "2025-06-02T20:33:35.816369",
+      "last_active": "2025-06-02T20:33:35.816387"
+    },
+    "6ef6ec9a-a9d0-4ea5-8bfa-86e3512111e2": {
+      "id": "6ef6ec9a-a9d0-4ea5-8bfa-86e3512111e2",
+      "messages": [],
+      "created_at": "2025-06-02T20:37:38.039109",
+      "last_active": "2025-06-02T20:37:38.039132"
+    },
+    "2da98513-97e9-4f0d-a808-03328c28f54a": {
+      "id": "2da98513-97e9-4f0d-a808-03328c28f54a",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of France?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of France is Paris."
+        }
+      ],
+      "created_at": "2025-06-02T20:38:51.245680",
+      "last_active": "2025-06-02T20:38:51.246285"
+    },
+    "476ca6c9-d520-4cd4-9cb1-fcd28980bee5": {
+      "id": "476ca6c9-d520-4cd4-9cb1-fcd28980bee5",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of France?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of France is Paris."
+        }
+      ],
+      "created_at": "2025-06-02T20:39:13.001621",
+      "last_active": "2025-06-02T20:39:13.002156"
+    },
+    "b103840f-bbef-4c93-9d59-80b9efe0bbf5": {
+      "id": "b103840f-bbef-4c93-9d59-80b9efe0bbf5",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of France?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of France is Paris."
+        }
+      ],
+      "created_at": "2025-06-02T20:44:11.847153",
+      "last_active": "2025-06-02T20:44:11.847855"
+    },
+    "0c84e76e-801f-4c60-b58a-0dcd1dd7a105": {
+      "id": "0c84e76e-801f-4c60-b58a-0dcd1dd7a105",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of France?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of France is Paris."
+        }
+      ],
+      "created_at": "2025-06-02T20:44:28.421486",
+      "last_active": "2025-06-02T20:44:28.422052"
+    },
+    "4c274110-88f3-4774-879a-25e85cf75579": {
+      "id": "4c274110-88f3-4774-879a-25e85cf75579",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of France?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of France is Paris."
+        }
+      ],
+      "created_at": "2025-06-02T20:44:42.582151",
+      "last_active": "2025-06-02T20:44:42.582722"
+    },
+    "b84d94e2-60d4-485d-9755-2c1d36d8e88f": {
+      "id": "b84d94e2-60d4-485d-9755-2c1d36d8e88f",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of France?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of France is Paris."
+        }
+      ],
+      "created_at": "2025-06-02T20:45:57.442403",
+      "last_active": "2025-06-02T20:45:57.443110"
+    },
+    "be381d18-ad5f-4ced-a6ae-a6fc68376e9a": {
+      "id": "be381d18-ad5f-4ced-a6ae-a6fc68376e9a",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What is the capital of France?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of France is Paris."
+        }
+      ],
+      "created_at": "2025-06-02T20:46:25.285271",
+      "last_active": "2025-06-02T20:46:25.286068"
+    },
+    "63d22050-975b-48d0-b0ed-e5fd83e95c2b": {
+      "id": "63d22050-975b-48d0-b0ed-e5fd83e95c2b",
+      "messages": [
+        {
+          "role": "user",
+          "content": "What did i just ask"
+        },
+        {
+          "role": "assistant",
+          "content": "You asked, \"What did I just ask?\" However, you haven't asked anything prior to that in this conversation, so there is no previous question to refer to. How can I assist you further?"
+        },
+        {
+          "role": "user",
+          "content": "What is the capital of France?"
+        },
+        {
+          "role": "assistant",
+          "content": "The capital of France is Paris."
+        },
+        {
+          "role": "user",
+          "content": "What did i just ask?"
+        },
+        {
+          "role": "assistant",
+          "content": "You just asked, \"What is the capital of France?\""
+        }
+      ],
+      "created_at": "2025-06-02T20:47:54.115767",
+      "last_active": "2025-06-02T20:52:26.585201"
+    }
+  }
+}
